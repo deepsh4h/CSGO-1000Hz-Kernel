@@ -12,7 +12,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 ```
 
 ```
-sudo apt-get install kernel-package libncurses-dev wget bzip2 make build-essential flex bingo libssldev
+sudo apt-get install kernel-package libncurses-dev wget bzip2 make build-essential flex bison libelf-dev libssl-dev
 ```
 
 ```
